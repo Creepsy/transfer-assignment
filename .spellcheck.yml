@@ -6,4 +6,4 @@ matrix:
   - "**/*.md"
   dictionary: 
     wordlists:
-    - .worldlist.txt
+    - .wordlist.txt
