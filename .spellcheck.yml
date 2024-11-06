@@ -5,4 +5,5 @@ matrix:
   - "**/*.txt"
   - "**/*.md"
   dictionary: 
-    .worldlist.txt
+    wordlists:
+    - .worldlist.txt
